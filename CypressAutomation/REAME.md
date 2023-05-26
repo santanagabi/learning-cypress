@@ -1,0 +1,3 @@
+### Cypress
+
+- npx cypress open
